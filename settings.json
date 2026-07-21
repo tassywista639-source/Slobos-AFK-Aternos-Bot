@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "craig123456789.aternos.me",
-    "port": 45786,
-    "version": "1.26.30.5",
+    "ip": "51.222.8.7",
+    "port":34231 ,
+    "version": "1.26.33.2",
     "try-creative": true
   },
   "position": {
